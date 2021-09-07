@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-nothing to share
+Too lazy to find a nickname .. sooo
+4390c336 = crc32('hamza')
